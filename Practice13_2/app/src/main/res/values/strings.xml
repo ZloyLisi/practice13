@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practice13_2</string>
+    <string name="cathet1">Катет 1:</string>
+    <string name="cathet2">Катет 2:</string>
+    <string name="hypotenuse">Гипотенуза = </string>
+    <string name="perimeter">Периметр = </string>
+    <string name="square">Площадь = </string>
+    <string name="toast1">Введите 1-ой катет!</string>
+    <string name="toast2">Введите 2-ой катет!</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="rez">0</string>
+    <string name="toast3">Длина катета = 0!!!</string>
+</resources>
